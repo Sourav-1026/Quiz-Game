@@ -24,4 +24,4 @@
 
 ## 🚀 Live Demo
 
-🔗 https://digital-tools-1026.netlify.app/
+🔗 https://sourav-1026.github.io/Quiz-Game/
